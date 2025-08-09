@@ -6,6 +6,13 @@ layout: home
 author_profile: true
 ---
 
+# Victor Muthoka
+**Computer Scientist**  
+📍 Nairobi, Kenya | 📧 muthokavictor2000@gmail.com
+
+---
+
+
 ## 🎓 Education
 **BSc in Computer Science** — Moi University  
 _Graduated: 2024_  
